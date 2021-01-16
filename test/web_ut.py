@@ -3,7 +3,6 @@ import configparser
 import os
 import time
 import unittest
-import pytest
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
